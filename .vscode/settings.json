@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "C:/Users/HP/Desktop/Phase_1/odoo-config/addons"
+    ],
+    "python.autoComplete.extraPaths": [
+        "C:/Users/HP/Desktop/Phase_1/odoo-config/addons"
+    ]
+}
