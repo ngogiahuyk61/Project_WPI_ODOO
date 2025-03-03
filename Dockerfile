@@ -3,8 +3,6 @@ FROM odoo:16
 # Cài đặt các dependencies cần thiết
 USER root
 
-# Sao chép file requirements.txt vào container
-COPY requirements.txt /requirements.txt
 
 
 
